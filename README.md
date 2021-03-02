@@ -1,4 +1,4 @@
-<h1 style='center'>Django Expense Tracker</h1>
+<h1 align='center'>Django Expense Tracker</h1>
 
 
 # How to Run this Project
